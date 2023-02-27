@@ -69,8 +69,10 @@ ul {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 0.02em; 
-    }
+    letter-spacing: 0.02em; }
+.hiro-text {
+    color: var(--background-color);
+    text-align: center;}
 .hiro-btn {
     cursor: pointer;
     background-color: var(--brand-color); 
