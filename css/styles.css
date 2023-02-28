@@ -1,5 +1,6 @@
 /*---------GLOBAL---------*/
 :root {
+    --heder-color: #212121;
     --brand-color: #4D5AE5;
     --brand-color-team: #F4F4FD;
     --pressed-state-color: #404BBF;
@@ -46,7 +47,7 @@ ul {
 
 /*---------HEDER---------*/
 .header {
-    background: var(--background-color);}
+    background: var(--heder-color);}
 .header-link {
     font-weight: 500;
     color: inherit;
